@@ -1,0 +1,18 @@
+title: Casgate Identity and Access Management
+description:
+  - >-
+    Сервис Identity and Access Management (IAM) — это сервис
+    идентификации и контроля доступа, который помогает централизованно управлять
+    правами доступа пользователей к ресурсам вашего приложения. Благодаря IAM
+    все операции над ресурсами выполняются только пользователями с необходимыми
+    правами.
+meta:
+  title: Casgate Identity and Access Management
+  description: >-
+    Сервис Casgate Identity and Access Management (IAM) — это сервис
+    идентификации и контроля доступа, который помогает централизованно управлять
+    правами доступа пользователей к ресурсам вашего приложения.
+links:
+  - title: Начало работы
+    description: Добавьте пользователя и назначьте ему роль
+    href: quickstart-overview
