@@ -3,12 +3,12 @@ href: index.yaml
 items: 
   - name: Начало работы
     href: quickstart-overview.md
-- name: Концепции
-    items:
-      - name: Обзор
-        href: concepts/index.md
-        items:
-          - name: Организации
-            href: concepts/organization.md
-          - name: Пользователи и группы
-            href: concepts/users-and-groups.md
+  - name: Концепции
+      items:
+        - name: Обзор
+          href: concepts/index.md
+          items:
+            - name: Организации
+              href: concepts/organization.md
+            - name: Пользователи и группы
+              href: concepts/users-and-groups.md
